@@ -1,159 +1,156 @@
-# Sunil Kumar
-### QA Engineer | Software Testing | API Testing
+# 👋 Hi, I'm Sunil Kumar
 
-📍 Chandigarh, India  
-📞 +91-9988762566  
-📧 Sunil_087@hotmail.com  
-
-🔗 LinkedIn: https://linkedin.com/in/sunil-kumar87  
+💼 **QA Engineer | Software Tester**
+📍 Chandigarh, India
 
 ---
 
-## About Me
-Detail-oriented QA Engineer with 3+ years of professional experience in software testing across web, SaaS, CRM, HRMS, and enterprise applications. Skilled in manual testing, API testing, regression testing, and defect management with hands-on experience in tools such as Selenium, Postman, JIRA, and JMeter.
+## 🚀 About Me
 
-Strong understanding of **SDLC, STLC, and Agile methodologies** with the ability to collaborate effectively with cross-functional teams to ensure high-quality software delivery.
+Detail-oriented **QA Engineer with 3+ years of experience** in software testing across **fintech, HRMS, CRM, and SaaS domains**.
+Experienced in **manual testing, API testing, and automation (Selenium)** with a strong understanding of **SDLC, STLC, and Agile methodologies**.
 
----
-
-# Skills
-
-### Testing
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- API Testing
-- System Testing
-- Black Box Testing
-
-### Tools
-- Selenium
-- Postman
-- JMeter
-- JIRA
-- Trello
-- Azure DevOps
-- BrowserStack
-- SelectorsHub
-
-### Technical Skills
-- Core Java
-- SQL
-- HTML & CSS
-
-### Methodologies
-- Agile
-- Scrum
-- SDLC
-- STLC
+I focus on delivering **high-quality, bug-free applications** by identifying critical defects early and collaborating closely with development teams.
 
 ---
 
-# Work Experience
+## 🛠️ Tech Stack & Tools
 
-## Quality Analyst  
-**SourceMash Technologies Pvt. Ltd.**
+### 🔹 Testing Tools
 
-### Responsibilities
-- Designed and executed test cases for enterprise applications.
-- Performed API testing to validate backend services.
-- Conducted regression testing for new features and defect fixes.
-- Collaborated with developers and product teams to ensure product quality.
-- Logged and tracked defects using JIRA.
+* Postman
+* JIRA
+* Selenium
+* JMeter
+* BrowserStack
+* SelectorsHub
 
----
+### 🔹 Testing Types
 
-# Projects Profile
+* Manual Testing
+* API Testing
+* Functional Testing
+* Regression Testing
+* System Testing
+* Performance Testing
 
-## Loan & Financial Management Platform
-**Duration:** Apr 2022 – Jan 2024  
+### 🔹 Languages & Database
 
-Conducted end-to-end testing for loan and financial applications across mobile and web platforms including **KIOSK, LOS, AMS, and API lending systems**.  
-Designed and executed test cases for loan processing workflows, customer onboarding, and financial data validation.
+* Java
+* SQL (MySQL)
+* OOPs
 
-**Testing Types**
-- Functional Testing
-- Regression Testing
-- API Testing
-- Database Validation
+### 🔹 Other Tools
 
----
-
-## Property Management Platform
-**Duration:** Sept 2024 – Feb 2025  
-
-Tested a SaaS-based property management system supporting property listings, membership plans, notifications, and user management.
-
-**Responsibilities**
-- Functional and UI testing
-- Regression testing
-- Defect tracking in JIRA
-- User workflow validation
+* Azure DevOps
+* Trello
+* HTML, CSS
+* Git & GitHub (Basic)
 
 ---
 
-## Recruitment & Job Management Platform
-**Duration:** Sept 2024 – Feb 2025  
+## 💼 Work Experience
 
-Tested recruitment workflows including candidate registration, job posting, and application management.
+### 🏢 Quality Analyst | SourceMash Technologies Pvt. Ltd.
 
-**Responsibilities**
-- End-to-end workflow testing
-- API validation
-- UAT support
-- Defect tracking
+📅 Aug 2025 – Present
 
----
-
-## Hotel Booking Platform
-**Duration:** Sept 2024 – Feb 2025  
-
-Performed testing for hotel search, booking, payment, and reservation management modules.
-
-**Testing Types**
-- Functional Testing
-- Regression Testing
-- Workflow validation
+* Performing manual, API, and automation testing
+* Working on enterprise-level applications
+* Designing and executing test cases
 
 ---
 
-## Enterprise CRM & HRMS Platforms
-**Technologies:** Microsoft Dynamics 365 & Salesforce  
-**Duration:** Sept 2026 – Present  
+### 🏢 Quality Analyst | Maxxmann Communications Pvt. Ltd.
 
-Testing enterprise applications supporting CRM and HRMS workflows including lead management, employee data management, and approval systems.
+📅 Feb 2025 – Aug 2025
 
-**Responsibilities**
-- Test case design and execution
-- API testing
-- Data validation
-- Regression testing
+* Worked on **HRMS & CRM platforms**
+* Performed regression, API, and performance testing
+* Validated workflows like payroll, attendance, and dashboards
 
 ---
 
-# Certifications
+### 🏢 Quality Analyst | DortexAI Pvt. Ltd.
 
-- Learn JMeter from Scratch on Live Apps – Performance Testing (Udemy)
-- Generative AI in Software Testing (Udemy)
-- Manual Testing – bebo Technologies
+📅 Sept 2024 – Feb 2025
 
----
-
-# Education
-
-**MBA – Information Technology**  
-CGC Landran  
-
-**BCA – Computer Applications**  
-CGC Landran  
+* Tested SaaS platforms in **property, recruitment, and hotel domains**
+* Performed functional and regression testing
 
 ---
 
-# Contact
+### 🏢 Quality Analyst | Wits Innovation Lab
 
-📧 Email: Sunil_087@hotmail.com  
-🔗 LinkedIn: https://linkedin.com/in/sunil-kumar87  
+📅 Apr 2022 – Jan 2024
+
+* Worked on **loan & financial systems (PaySense)**
+* Conducted end-to-end testing for web & mobile applications
 
 ---
 
-⭐ If you find my work interesting, feel free to connect with me on LinkedIn.
+## 📂 Projects
+
+### 💳 Loan & Financial Management Platform
+
+* Tested LOS, AMS, KIOSK, and API lending systems
+* Validated loan workflows and financial transactions
+* Ensured regulatory compliance
+
+---
+
+### 🏠 Property Management Platform
+
+* Tested property listing, user accounts, and payment modules
+* Performed regression and functional testing
+
+---
+
+### 💼 Recruitment & Job Portal
+
+* Validated job posting, applications, and dashboards
+* Supported UAT and regression cycles
+
+---
+
+### 🏢 CRM & HRMS Platforms
+
+* Tested enterprise applications (Microsoft Dynamics 365, Salesforce)
+* Validated workflows, dashboards, and integrations
+
+---
+
+## 🧠 Testing Techniques
+
+* Black Box Testing
+* Boundary Value Analysis
+* Equivalence Partitioning
+* Smoke & Sanity Testing
+
+---
+
+## 📜 Certifications
+
+* JMeter Performance Testing (Udemy)
+* Generative AI in Software Testing (Udemy)
+* Manual Testing (Bebo Technologies)
+
+---
+
+## 🎓 Education
+
+* **MBA (IT)** – CGC, Landran
+* **BCA** – CGC, Landran
+
+---
+
+## 🔗 Connect With Me
+
+* 🌐 Portfolio: https://sunil-087.github.io/My_QA_Profile/
+* 💼 LinkedIn: https://www.linkedin.com/in/sunil-kumar87/
+* 💻 GitHub: https://github.com/Sunil-087
+* 📧 Email: [Sunil_087@hotmail.com](mailto:Sunil_087@hotmail.com)
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
