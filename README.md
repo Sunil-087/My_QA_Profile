@@ -3,89 +3,87 @@
 💼 **QA Engineer | Software Tester**
 📍 Chandigarh, India
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/sunil-kumar87/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
+  <a href="mailto:Sunil_087@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
+  <a href="https://github.com/Sunil-087"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"></a>
+  <a href="https://sunil-087.github.io/My_QA_Profile/"><img src="https://img.shields.io/badge/Portfolio-Visit-green"></a>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-Detail-oriented **QA Engineer with 3+ years of experience** in software testing across **fintech, HRMS, CRM, and SaaS domains**.
-Experienced in **manual testing, API testing, and automation (Selenium)** with a strong understanding of **SDLC, STLC, and Agile methodologies**.
+QA Engineer with **3+ years of experience** in software testing across **fintech, HRMS, CRM, and SaaS domains**.
 
-I focus on delivering **high-quality, bug-free applications** by identifying critical defects early and collaborating closely with development teams.
+✔ Expertise in **Manual Testing, API Testing, and Automation (Selenium)**
+✔ Strong knowledge of **SDLC, STLC, Agile (Scrum)**
+✔ Proven ability to **identify critical defects (90% detection rate)**
+✔ Improved testing efficiency by **30% through optimized processes**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 ### 🔹 Testing Tools
 
-* Postman
-* JIRA
-* Selenium
-* JMeter
-* BrowserStack
-* SelectorsHub
-
-### 🔹 Testing Types
-
-* Manual Testing
-* API Testing
-* Functional Testing
-* Regression Testing
-* System Testing
-* Performance Testing
+![Postman](https://img.shields.io/badge/Postman-API-orange?logo=postman)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-green?logo=selenium)
+![JMeter](https://img.shields.io/badge/JMeter-Performance-red)
+![JIRA](https://img.shields.io/badge/JIRA-Tracking-blue?logo=jira)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-Testing-yellow)
 
 ### 🔹 Languages & Database
 
-* Java
-* SQL (MySQL)
-* OOPs
+![Java](https://img.shields.io/badge/Java-Programming-red?logo=java)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=mysql)
 
 ### 🔹 Other Tools
 
-* Azure DevOps
-* Trello
-* HTML, CSS
-* Git & GitHub (Basic)
+![Azure DevOps](https://img.shields.io/badge/Azure-DevOps-blue?logo=microsoftazure)
+![Git](https://img.shields.io/badge/Git-VersionControl-black?logo=git)
+![HTML](https://img.shields.io/badge/HTML-Frontend-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Styling-blue?logo=css3)
 
 ---
 
 ## 💼 Work Experience
 
-### 🏢 Quality Analyst | SourceMash Technologies Pvt. Ltd.
+### 🏢 **SourceMash Technologies Pvt. Ltd.**
 
-📅 Aug 2025 – Present
+📅 Sep 2025 – Present
 
-* Performing manual, API, and automation testing
-* Working on enterprise-level applications
+* Performing **manual, API & automation testing**
 * Designing and executing test cases
+* Working on enterprise-level applications
 
 ---
 
-### 🏢 Quality Analyst | Maxxmann Communications Pvt. Ltd.
+### 🏢 **Maxxmann Communications Pvt. Ltd.**
 
 📅 Feb 2025 – Aug 2025
 
-* Worked on **HRMS & CRM platforms**
+* Tested **HRMS & CRM platforms**
 * Performed regression, API, and performance testing
-* Validated workflows like payroll, attendance, and dashboards
+* Validated payroll, attendance, dashboards, and workflows
 
 ---
 
-### 🏢 Quality Analyst | DortexAI Pvt. Ltd.
+### 🏢 **DortexAI Pvt. Ltd.**
 
 📅 Sept 2024 – Feb 2025
 
-* Tested SaaS platforms in **property, recruitment, and hotel domains**
-* Performed functional and regression testing
+* Tested SaaS platforms in **property, recruitment & hotel domains**
+* Executed functional and regression testing
 
 ---
 
-### 🏢 Quality Analyst | Wits Innovation Lab
+### 🏢 **Wits Innovation Lab**
 
 📅 Apr 2022 – Jan 2024
 
 * Worked on **loan & financial systems (PaySense)**
-* Conducted end-to-end testing for web & mobile applications
+* Conducted end-to-end testing for web & mobile apps
 
 ---
 
@@ -93,30 +91,30 @@ I focus on delivering **high-quality, bug-free applications** by identifying cri
 
 ### 💳 Loan & Financial Management Platform
 
-* Tested LOS, AMS, KIOSK, and API lending systems
-* Validated loan workflows and financial transactions
-* Ensured regulatory compliance
+* Tested LOS, AMS, KIOSK & API systems
+* Validated loan workflows & financial transactions
+* Ensured compliance & data accuracy
 
 ---
 
 ### 🏠 Property Management Platform
 
-* Tested property listing, user accounts, and payment modules
-* Performed regression and functional testing
+* Tested property listings, profiles & payment systems
+* Performed regression & functional testing
 
 ---
 
 ### 💼 Recruitment & Job Portal
 
-* Validated job posting, applications, and dashboards
-* Supported UAT and regression cycles
+* Validated job posting, applications & dashboards
+* Supported UAT & regression cycles
 
 ---
 
 ### 🏢 CRM & HRMS Platforms
 
-* Tested enterprise applications (Microsoft Dynamics 365, Salesforce)
-* Validated workflows, dashboards, and integrations
+* Tested enterprise systems (Dynamics 365, Salesforce)
+* Validated workflows, dashboards & integrations
 
 ---
 
@@ -126,14 +124,15 @@ I focus on delivering **high-quality, bug-free applications** by identifying cri
 * Boundary Value Analysis
 * Equivalence Partitioning
 * Smoke & Sanity Testing
+* Regression Testing
 
 ---
 
 ## 📜 Certifications
 
-* JMeter Performance Testing (Udemy)
-* Generative AI in Software Testing (Udemy)
-* Manual Testing (Bebo Technologies)
+* 🎓 JMeter Performance Testing (Udemy)
+* 🤖 Generative AI in Software Testing (Udemy)
+* 🧪 Manual Testing (Bebo Technologies)
 
 ---
 
@@ -144,7 +143,15 @@ I focus on delivering **high-quality, bug-free applications** by identifying cri
 
 ---
 
-## 🔗 Connect With Me
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunil-087&show_icons=true&theme=default" />
+</p>
+
+---
+
+## 🤝 Let's Connect
 
 * 🌐 Portfolio: https://sunil-087.github.io/My_QA_Profile/
 * 💼 LinkedIn: https://www.linkedin.com/in/sunil-kumar87/
@@ -153,4 +160,4 @@ I focus on delivering **high-quality, bug-free applications** by identifying cri
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+⭐ *Open to QA opportunities | Let’s build quality software together!*
